@@ -14,6 +14,7 @@ More tests will be coming up shortly..
 * Integrate with google Calendar API to schedule daily events
 * Integrate with google tasks and add to-do's to list
 * Integrate with Trello, translating the to-do's to a viewable card on a board
+* Make an actual nice design that is future proof-ish
 
 ### Tools
 #### Frontend
