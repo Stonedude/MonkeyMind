@@ -1,4 +1,4 @@
-# MonkeyMind
+# MonkeyMind🐒
 ### Rationale
  MonkeyMind has been my daily log questionaire for a long time, this is the project that will make into a digital format and hopefully accessible to more people that want to use it.
 
