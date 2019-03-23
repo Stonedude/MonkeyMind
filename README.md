@@ -15,8 +15,8 @@ More tests will be coming up shortly..
 * Integrate with google tasks and add to-do's to list
 * Integrate with Trello, translating the to-do's to a viewable card on a board
 
-###Tools
+### Tools
 * Frontend
-Css Grid
-React Native + Redux
+* Css Grid
+* React Native + Redux
 * Firebase for backend?
