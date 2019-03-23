@@ -20,4 +20,4 @@ More tests will be coming up shortly..
 * Css Grid
 * React Native + Redux
 #### Backend
-* Firebase for backend?
+* Firebase? Dunno just yet
