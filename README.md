@@ -9,7 +9,7 @@ More tests will be coming up shortly..
 
 ## Milestones:
 * Basic interface and functionality, raw css, html and JS with react
-* Basic website with multiple pages and meny to switch between
+* Basic website with multiple pages and menu to switch between
 * Connect with database to make entries stick around
 * Integrate with google Calendar API to schedule daily events
 * Integrate with google tasks and add to-do's to list
