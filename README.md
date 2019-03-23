@@ -16,7 +16,8 @@ More tests will be coming up shortly..
 * Integrate with Trello, translating the to-do's to a viewable card on a board
 
 ### Tools
-* Frontend
+#### Frontend
 * Css Grid
 * React Native + Redux
+#### Backend
 * Firebase for backend?
