@@ -6,7 +6,7 @@ I'm planning on turning this into a react+redux project to teach myself how to b
 Hopefully it won't be too painful.. but then again, there are always new shiny JS libraries on the horizon..
 More tests will be coming up shortly..
 
-## Milestones:
+### Milestones:
 * Basic interface and functionality, raw css, html and JS with react
 * Basic website with multiple pages and menu to switch between
 * Connect with database to make entries stick around
